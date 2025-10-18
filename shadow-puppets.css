@@ -1,0 +1,372 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 780px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 16px auto 0 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 20px;
+  margin-bottom: 16px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 672px;
+  background-image: url("images/penguinmusicians.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 672px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 671px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 671px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 681px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 514px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1375px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 771px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1013px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 485px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 638px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 55px;
+  margin-bottom: 40px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 543px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 176px 0;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0 31px 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 543px;
+  background-image: url("images/snailandballoon.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 637px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 542px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 542px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 571px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 415px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1183px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 623px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 843px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 392px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 626px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 0;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 539px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 539px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 13px 0 0 31px;
+}
+
+.u-section-3 .u-layout-wrap-2 {
+  width: 471px;
+  margin: -539px auto 33px 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 258px;
+  background-image: url("images/workshop2small.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 258px;
+  background-image: url("images/PickleofHedgehogsMenagerie.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-3 {
+  min-height: 258px;
+  background-image: url("images/KarenandRobynshadowpuppets.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-4 {
+  min-height: 258px;
+  background-image: url("images/cowandowlsmall.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-6 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1078px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 538px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 538px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 858px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 412px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2296px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 618px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 516px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 516px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 516px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 516px;
+  }
+
+  .u-section-3 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1498px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 389px;
+  }
+
+  .u-section-3 .u-layout-wrap-2 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 372px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 372px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 372px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 372px;
+  }
+}
